@@ -1,0 +1,24 @@
+{
+  "name": "aws-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohammed-Alramahi/aws-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohammed-Alramahi/aws-server/issues"
+  },
+  "homepage": "https://github.com/Mohammed-Alramahi/aws-server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "faker": "^5.5.3"
+  }
+}
