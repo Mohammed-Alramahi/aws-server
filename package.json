@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/Mohammed-Alramahi/aws-server#readme",
   "dependencies": {
-    "express": "^4.17.1",
-    "faker": "^5.5.3"
+    "express": "^4.17.1"
   }
 }
